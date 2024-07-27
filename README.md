@@ -22,9 +22,9 @@ How to Use:
   * Customize the app by modifying the style.css and script.js files as needed.
 
 Technologies Used:
-  * HTML , 
-  * CSS (including Font Awesome and Google Fonts) , 
-  * JavaScript , 
+  * HTML 
+  * CSS (including Font Awesome and Google Fonts)  
+  * JavaScript 
   * OpenWeatherMap API
 
 Feel free to explore, modify, and enhance the application. Contributions are welcome!
